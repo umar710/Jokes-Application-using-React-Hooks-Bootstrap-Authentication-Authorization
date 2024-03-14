@@ -1,0 +1,34 @@
+.login-page-container {
+  background-image: url('https://cdn.dribbble.com/userupload/10578752/file/original-0c670aee072bc52a498d62413d32f0a0.png?resize=1200x900');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  flex-wrap: wrap;
+}
+
+.login-card {
+  background-color: #ffffff;
+  height: 50vh;
+  width: 50vh;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-details-card {
+  background-color: #ffffff;
+  margin: 10px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+}
+
+.login-btn {
+  width: 190px;
+  margin-top: 10px;
+}

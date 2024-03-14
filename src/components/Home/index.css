@@ -1,0 +1,30 @@
+.home-page-container {
+  background-image: url('https://cdn.dribbble.com/userupload/13416906/file/original-b412c4c3a3fcdff242366aae2d5e2cbd.png?resize=1200x900');
+  background-size: cover;
+}
+
+.ul-list {
+  list-style: none;
+}
+
+.heading {
+  font-family: Bree Serif;
+  color: #ffffff;
+  font-style: italic;
+}
+
+.jokes-text {
+  background-color: #cbc3e3;
+  margin: 10px;
+  border-radius: 10px;
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: bold;
+  border: 2px solid #301934;
+}
+
+.joke-title {
+  font-family: Bree Serif;
+  color: #ffffff;
+  font-style: italic;
+}
